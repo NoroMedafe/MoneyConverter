@@ -20,8 +20,9 @@ namespace MoneyConverter
             double dollarToEuroRatio = 0.95;
             double dollarToRubleRatio = 64.6;
             double euroToRubleRatio = 67.7;
+            string key = "";
 
-            while (true)
+            while (key != "4")
             {
                 Console.Clear();
                 Console.WriteLine("Конвертер валют:");
@@ -32,7 +33,7 @@ namespace MoneyConverter
                 Console.WriteLine("3 - Показать баланс");
                 Console.WriteLine("4 - Выйти");
 
-                string key = Console.ReadLine();
+                key = Console.ReadLine();
 
                 switch (key)
                 {
@@ -200,17 +201,14 @@ namespace MoneyConverter
                         Console.ReadKey();
 
                         break;
-
-                    case "4":
-
-                        Console.Clear();
-                        Console.WriteLine("Спасибо, что заглянули. До новых встреч!");
-
-                        Thread.Sleep(2000);
-                        Environment.Exit(0);
-
-                        break;
+                  
                 }
+
+                Console.Clear();
+                Console.WriteLine("Спасибо, что заглянули. До новых встреч!");
+
+                Thread.Sleep(2000);
+                Environment.Exit(0);
             }
         }
     }
