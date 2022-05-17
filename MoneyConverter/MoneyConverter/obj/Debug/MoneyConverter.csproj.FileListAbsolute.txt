@@ -1,0 +1,7 @@
+C:\Users\danya\source\repos\MoneyConverter\MoneyConverter\bin\Debug\MoneyConverter.exe.config
+C:\Users\danya\source\repos\MoneyConverter\MoneyConverter\bin\Debug\MoneyConverter.exe
+C:\Users\danya\source\repos\MoneyConverter\MoneyConverter\bin\Debug\MoneyConverter.pdb
+C:\Users\danya\source\repos\MoneyConverter\MoneyConverter\obj\Debug\MoneyConverter.csproj.AssemblyReference.cache
+C:\Users\danya\source\repos\MoneyConverter\MoneyConverter\obj\Debug\MoneyConverter.csproj.CoreCompileInputs.cache
+C:\Users\danya\source\repos\MoneyConverter\MoneyConverter\obj\Debug\MoneyConverter.exe
+C:\Users\danya\source\repos\MoneyConverter\MoneyConverter\obj\Debug\MoneyConverter.pdb
